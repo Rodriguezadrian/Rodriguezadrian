@@ -13,7 +13,7 @@
 ```javascript
 const adrian = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, HTML, CSS],
   tools: [React],
 
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
